@@ -3,11 +3,9 @@
 <p align="center">
   </p>
 
-I am a Ph.D. student in Bioinformatics, jointly affiliated with **ShanghaiTech University** and the **CAS Center for Excellence in Molecular Plant Sciences (CEMPS)**.
+Ph.D. student in Bioinformatics, jointly affiliated with **ShanghaiTech University** and the **CAS Center for Excellence in Molecular Plant Sciences (CEMPS)**.
 
 My primary research interest lies in the field of **plant single-cell analysis** to unravel the complexities of plant biology at the cellular level and beyond.
-
----
 
 ### 👨‍🔬 About Me | 关于我
 
@@ -18,8 +16,6 @@ My primary research interest lies in the field of **plant single-cell analysis**
     * CAS Center for Excellence in Molecular Plant Sciences (CEMPS, 中科院分子植物科学卓越创新中心)
 * 💬 **Ask me about:** Plant genomics, transcriptomics, single-cell data analysis, or anything related to bioinformatics in plant science!
 
----
-
 ### 📫 How to Reach Me | 联系方式
 
 * **Email:** `wanmchun@foxmail.com`
@@ -28,26 +24,18 @@ My primary research interest lies in the field of **plant single-cell analysis**
 * **ResearchGate:** `https://www.researchgate.net/profile/Muchun-Wan` 
 
 * 💬 Languages: Chinese (Native), English
-* 🌍 I'm passionate about keyboard and 滑板.
 ---
-
 
 ### 🛠️ Skills & Expertise | 专业技能
 * **Omics Data Expertise:**
     * Single-cell RNA-seq (scRNA-seq)、Single-cell ATAC-seq (scATAC)
     * Bulk RNA-seq、ChIP-seq、BS-seq(WGBS)、ATAC-seq ...
-......
----
-
-### 📚 Publications & Preprints | 发表论文与预印本
-......
+...
 
 ---
 
 ### 🚀 Current Projects & Focus | 当前工作与关注点
 
-* 🔭 I’m currently working on ...
 * 🌱 I’m currently learning and exploring Machine learning / AI
-* 👯 I am seeking collaboration opportunities in plant developmental biology.
 
 ---
