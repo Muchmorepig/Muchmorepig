@@ -25,9 +25,5 @@ Interest lies in the field of **plant single-cell analysis** to unravel the comp
 * **Omics Data Expertise:**
     * Single-cell RNA-seq (scRNA-seq)、Single-cell ATAC-seq (scATAC)
     * Bulk RNA-seq、ChIP-seq、BS-seq(WGBS)、ATAC-seq ...
-...
-
-
-## 🚀 Current Projects & Focus | 当前工作与关注点
-
+      
 * 🌱 I’m currently learning and exploring Machine learning / AI
