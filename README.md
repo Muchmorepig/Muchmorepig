@@ -3,9 +3,9 @@
 <p align="center">
   </p>
 
-Ph.D. student in Bioinformatics, jointly affiliated with **ShanghaiTech University** and the **CAS Center for Excellence in Molecular Plant Sciences (CEMPS)**.
+Ph.D. student, jointly affiliated with **ShanghaiTech University** and the **CAS Center for Excellence in Molecular Plant Sciences (CEMPS)**.
 
-My primary research interest lies in the field of **plant single-cell analysis** to unravel the complexities of plant biology at the cellular level and beyond.
+Interest lies in the field of **plant single-cell analysis** to unravel the complexities of plant biology at the cellular level and beyond.
 
 ### 👨‍🔬 About Me | 关于我
 
@@ -24,7 +24,6 @@ My primary research interest lies in the field of **plant single-cell analysis**
 * **ResearchGate:** `https://www.researchgate.net/profile/Muchun-Wan` 
 
 * 💬 Languages: Chinese (Native), English
----
 
 ### 🛠️ Skills & Expertise | 专业技能
 * **Omics Data Expertise:**
