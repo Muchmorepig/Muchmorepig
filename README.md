@@ -37,5 +37,3 @@ My primary research interest lies in the field of **plant single-cell analysis**
 ### 🚀 Current Projects & Focus | 当前工作与关注点
 
 * 🌱 I’m currently learning and exploring Machine learning / AI
-
----
