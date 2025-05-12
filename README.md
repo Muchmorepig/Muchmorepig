@@ -1,4 +1,4 @@
-# <p align="center"> Hi there, I'm Muchun Wan (万木春)👋 </p>
+# <p align="center"> Hi there, I'm Mu-Chun Wan (万木春)👋 </p>
 
 Interest lies in the field of **plant single-cell analysis** to unravel the complexities of plant biology at the cellular level and beyond.
 
