@@ -19,11 +19,7 @@ Interest lies in the field of **plant single-cell analysis** to unravel the comp
 * **ORCID:** `https://orcid.org/0009-0000-1122-8893`
 * **ResearchGate:** `https://www.researchgate.net/profile/Muchun-Wan` 
 
-* 💬 Languages: Chinese (Native), English
-
 ## 🛠️ Skills & Expertise | 专业技能
 * **Omics Data Expertise:**
     * Single-cell RNA-seq (scRNA-seq)、Single-cell ATAC-seq (scATAC)
     * Bulk RNA-seq、ChIP-seq、BS-seq(WGBS)、ATAC-seq ...
-      
-* 🌱 I’m currently learning and exploring Machine learning / AI
